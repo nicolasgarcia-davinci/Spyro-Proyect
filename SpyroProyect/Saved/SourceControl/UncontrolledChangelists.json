@@ -1,0 +1,51 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/BPs/BP_Door.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/BPs/BP_Door.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/BPs/M_Gem.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/BPs/BP_Gem.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/BPs/BP_Gem.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/BPs/BP_Ork.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/BPs/BP_Ork.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/BPs/IA_Charge.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/BPs/IA_Crouch.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/BPs/IMC_SpyroActions.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/BPs/BP_FallTrap.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/BPs/BP_FallTrap.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/BPs/BP_Lava.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/BPs/BP_Lava.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/BPs/BP_Spawner.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/BPs/BP_Spawner.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/BPs/IA_Glide.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/BPs/IA_Glide.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/BPs/IMC_SpyroActions.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/BPs/IA_Crouch.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/BPs/IA_Charge.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/BPs/M_Gem.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/SpyroLevel.umap",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/BPs/BP_StikyTrap.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/UI/BPI_Collectable.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/UI/BPI_Trapped.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/Materials/M_StikyState.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/InterFace/BPI_Trapped.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/InterFace/BPI_Collectable.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/UI/BP_HUDProyect.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/GM/BP_GMMenu.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/Materials/MI_StikyState.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/VREditor/UI/ArrowMaterial.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/MapTemplates/Materials/BasicAsset03.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/GM/BP_GMProyect.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/M_Damage.uasset",
+				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/M_Spawner.uasset"
+			]
+		}
+	]
+}
