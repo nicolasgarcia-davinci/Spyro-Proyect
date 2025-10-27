@@ -1578,3 +1578,196 @@ UnknownFunction []
 [2025.10.27-15.47.57:630][136]LogFileHelpers: InternalPromptForCheckoutAndSave took 337 ms
 [2025.10.27-15.47.57:632][136]AssetCheck: New page: Asset Save: SpyroLevel
 [2025.10.27-15.47.57:632][136]LogContentValidation: Display: Validating /Script/Engine.World /Game/SpyroLevel.SpyroLevel
+[2025.10.27-15.52.09:347][578]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.27-15.52.10:546][604]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.27-15.52.13:549][680]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.27-15.52.22:127][889]Cmd: EDIT COPY
+[2025.10.27-15.52.24:525][949]Cmd: EDIT PASTE
+[2025.10.27-15.52.24:625][949]LogClass: Warning: Short type name "BP_Ork_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2025.10.27-15.52.24:638][949]LogClass: Warning: Short type name "BP_Ork_C_7" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2025.10.27-15.52.51:076][345]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.27-15.53.11:273][844]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.27-15.53.16:955][976]Cmd: EDIT COPY
+[2025.10.27-15.53.17:765][994]Cmd: EDIT PASTE
+[2025.10.27-15.53.17:860][994]LogClass: Warning: Short type name "BP_Ork_C_0" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2025.10.27-15.53.17:872][994]LogClass: Warning: Short type name "BP_Ork_C_0" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2025.10.27-15.53.36:129][321]Cmd: EDIT COPY
+[2025.10.27-15.53.36:863][331]Cmd: EDIT PASTE
+[2025.10.27-15.53.36:881][331]LogClass: Warning: Short type name "BP_Ork_C_0" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2025.10.27-15.53.36:893][331]LogClass: Warning: Short type name "BP_Ork_C_0" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2025.10.27-15.53.44:345][425]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.27-15.53.44:351][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.27-15.53.44:352][425]PIE: New page: PIE session: SpyroLevel (27 oct. 2025 09:53:44)
+[2025.10.27-15.53.44:352][425]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SpyroLevel
+[2025.10.27-15.53.44:365][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013690s)
+[2025.10.27-15.53.44:365][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SpyroLevel.SpyroLevel to /Game/UEDPIE_0_SpyroLevel.SpyroLevel (0.013740s)
+[2025.10.27-15.53.44:405][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.10.27-15.53.44:406][425]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.27-15.53.44:406][425]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.27-15.53.44:407][425]LogAIModule: Creating AISystem for world SpyroLevel
+[2025.10.27-15.53.44:408][425]LogPlayLevel: PIE: World Init took: (0.001516s)
+[2025.10.27-15.53.44:408][425]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.10.27-15.53.44:408][425]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.27-15.53.44:408][425]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.27-15.53.44:408][425]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.27-15.53.44:408][425]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.27-15.53.44:408][425]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.27-15.53.44:408][425]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.27-15.53.44:408][425]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.27-15.53.44:408][425]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.27-15.53.44:409][425]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.27-15.53.44:409][425]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.27-15.53.44:409][425]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.27-15.53.44:412][425]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.27-15.53.44:447][425]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Aux Input (VB-Audio VoiceMeeter AUX VAIO)
+[2025.10.27-15.53.44:447][425]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.27-15.53.44:447][425]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.27-15.53.44:448][425]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.27-15.53.44:449][425]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.10.27-15.53.44:449][425]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.10.27-15.53.44:451][425]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.10.27-15.53.44:451][425]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.10.27-15.53.44:451][425]LogInit: FAudioDevice initialized with ID 3.
+[2025.10.27-15.53.44:451][425]LogAudio: Display: Audio Device (ID: 3) registered with world 'SpyroLevel'.
+[2025.10.27-15.53.44:451][425]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.27-15.53.44:456][425]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.27-15.53.44:462][425]LogWorld: Bringing World /Game/UEDPIE_0_SpyroLevel.SpyroLevel up for play (max tick rate 0) at 2025.10.27-12.53.44
+[2025.10.27-15.53.44:462][425]LogWorld: Bringing up level for play took: 0.005509
+[2025.10.27-15.53.44:465][425]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.10.27-15.53.44:471][425]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You Need 8 Gems to Exit this Level
+[2025.10.27-15.53.44:471][425]PIE: Server logged in
+[2025.10.27-15.53.44:472][425]PIE: Play in editor total start time 0,121 seconds.
+[2025.10.27-15.54.01:087][528]LogBlueprintUserMessages: [BP_Ork_C_0] U Should Be Charging
+[2025.10.27-15.54.04:073][555]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] charge
+[2025.10.27-15.54.04:404][558]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] AWAAAAAAY
+[2025.10.27-15.54.04:519][559]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Ork
+	BP_ThirdPersonCharacter_C /Game/UEDPIE_0_SpyroLevel.SpyroLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:1190
+[2025.10.27-15.54.04:523][559]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Ork". Node:  Set Delete Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.10.27-15.54.04:637][560]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Ork
+	BP_ThirdPersonCharacter_C /Game/UEDPIE_0_SpyroLevel.SpyroLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:1190
+[2025.10.27-15.54.04:637][560]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Ork". Node:  Set Delete Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.10.27-15.54.04:764][561]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Ork
+	BP_ThirdPersonCharacter_C /Game/UEDPIE_0_SpyroLevel.SpyroLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:1190
+[2025.10.27-15.54.04:764][561]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Ork". Node:  Set Delete Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.10.27-15.54.04:883][562]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Ork
+	BP_ThirdPersonCharacter_C /Game/UEDPIE_0_SpyroLevel.SpyroLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:1190
+[2025.10.27-15.54.04:883][562]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Ork". Node:  Set Delete Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.10.27-15.54.05:006][563]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Ork
+	BP_ThirdPersonCharacter_C /Game/UEDPIE_0_SpyroLevel.SpyroLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:1190
+[2025.10.27-15.54.05:006][563]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Ork". Node:  Set Delete Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.10.27-15.54.05:116][564]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Ork
+	BP_ThirdPersonCharacter_C /Game/UEDPIE_0_SpyroLevel.SpyroLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:1190
+[2025.10.27-15.54.05:116][564]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Ork". Node:  Set Delete Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.10.27-15.54.05:241][565]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Ork
+	BP_ThirdPersonCharacter_C /Game/UEDPIE_0_SpyroLevel.SpyroLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:1190
+[2025.10.27-15.54.05:241][565]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Ork". Node:  Set Delete Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.10.27-15.54.05:358][566]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Ork
+	BP_ThirdPersonCharacter_C /Game/UEDPIE_0_SpyroLevel.SpyroLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:1190
+[2025.10.27-15.54.05:358][566]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Ork". Node:  Set Delete Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.10.27-15.54.05:758][569]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Finish charge
+[2025.10.27-15.54.07:404][582]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] charge
+[2025.10.27-15.54.09:345][597]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Finish charge
+[2025.10.27-15.54.11:703][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.27-15.54.11:703][616]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SpyroLevel
+[2025.10.27-15.54.11:704][616]LogWorld: UWorld::CleanupWorld for SpyroLevel, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-15.54.11:705][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-15.54.11:861][616]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.27-15.54.11:865][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-15.54.11:872][616]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.27-15.54.11:872][616]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.27-15.54.11:873][616]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.10.27-15.54.11:875][616]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.10.27-15.54.11:880][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.27-15.54.11:883][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.10.27-15.54.12:263][617]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.10.27-15.54.17:055][667]LogSlate: Window 'Message Log' being destroyed
+[2025.10.27-15.54.17:146][667]LogSlate: Window 'Message Log' being destroyed
+[2025.10.27-15.54.29:476][865]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-15.54.29:679][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpyroLevel" FILE="../../../../../../Users/Alumno/Documents/GitHub/Spyro-Proyect/SpyroProyect/Content/SpyroLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.27-15.54.29:699][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.10.27-15.54.29:741][865]LogSavePackage: Moving output files for package: /Game/SpyroLevel
+[2025.10.27-15.54.29:741][865]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/GitHub/Spyro-Proyect/SpyroProyect/Saved/SpyroLevelBD6302D94A1B884ACA7E779A6BF6132E.tmp' to '../../../../../../Users/Alumno/Documents/GitHub/Spyro-Proyect/SpyroProyect/Content/SpyroLevel.umap'
+[2025.10.27-15.54.29:746][865]LogFileHelpers: Saving map 'SpyroLevel' took 0.067
+[2025.10.27-15.54.29:756][865]LogFileHelpers: InternalPromptForCheckoutAndSave took 280 ms (total: 617 ms)
+[2025.10.27-15.54.29:758][865]AssetCheck: New page: Asset Save: SpyroLevel
+[2025.10.27-15.54.29:758][865]LogContentValidation: Display: Validating /Script/Engine.World /Game/SpyroLevel.SpyroLevel
