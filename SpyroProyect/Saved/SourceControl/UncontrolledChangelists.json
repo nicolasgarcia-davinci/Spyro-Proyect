@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/VREditor/UI/ArrowMaterial.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/MapTemplates/Materials/BasicAsset03.uasset",
+				"C:/Users/Alumno/Documents/GitHub/Spyro-Proyect/SpyroProyect/Content/SpyroLevel.umap",
 				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/BPs/BP_Door.uasset",
@@ -39,9 +43,6 @@
 				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/UI/BP_HUDProyect.uasset",
 				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/GM/BP_GMMenu.uasset",
 				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/Materials/MI_StikyState.uasset",
-				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset",
-				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/VREditor/UI/ArrowMaterial.uasset",
-				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/MapTemplates/Materials/BasicAsset03.uasset",
 				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/GM/BP_GMProyect.uasset",
 				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/M_Damage.uasset",
 				"C:/Users/Nicolas/Documents/Unreal Projects/SpyroProyect/Content/Proyect/M_Spawner.uasset"
